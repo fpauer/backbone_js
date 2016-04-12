@@ -21,3 +21,8 @@ Backbone.js has hard dependency on underscore.js and a soft dependency on jQuery
 - Models
 - Collections
 - Routers
+
+License
+----
+
+MIT
