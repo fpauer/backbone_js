@@ -22,8 +22,8 @@ For RESTful persistence and DOM manipulation with Backbone.View, include [jQuery
 
 Backbone.js has hard dependency on underscore.js and a soft dependency on jQuery. It’s made up of the following modules:
 
-Views
-Events
-Models
-Collections
-Routers
+- Views
+- Events
+- Models
+- Collections
+- Routers
